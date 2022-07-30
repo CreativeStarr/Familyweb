@@ -1,0 +1,306 @@
+
+
+
+
+a:hover {
+    color:yellow;
+    text-decoration: underline;
+}
+
+
+#lnk [href]:hover {
+	background-color: yellow;
+}
+
+.tx1 {
+  color: gold;
+}
+
+
+.txt1 {
+  color:SlateBlue;
+  font-style: bold;
+  font-size: 17px;
+  font-family: arial black;
+  align: center;
+  text-align: center;
+  padding: 5px;
+  margin: 10px;
+
+}
+
+.txt2 {
+  color:aqua;
+  font-style: bold;
+  text-align: center;
+}
+
+.txt3 {
+  color:deepskyblue;
+  font-style: bold;
+  font-size: 50px;
+  text-align: center;
+}
+
+.txt4 {
+  color:Tomato;
+  font-style: bold;
+  font-size: 150px;
+  text-align: center;
+}
+
+.txt5 {
+  color:azure;
+  font-style: bold;
+  font-size: 40px;
+  text-align: center;
+}
+
+.txt6 {
+  color:azure;
+  font-style: bold;
+  font-size: 20px;
+
+}
+
+
+.lin1 {
+  display: inline;
+  color: red;
+
+}
+
+.dv1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color:Tomato;
+  font-style: bold;
+  font-size: 30px;
+}
+
+.dv2 {
+  display: flex;
+  flex-direction: row;
+  padding: 5px;
+  margin: 15px;
+}
+
+.dv3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color:mediumturquoise;
+  font-family: verdana;
+  font-style: bold;
+  font-size: 30px;
+}
+
+.nv1 {
+  border: 6px solid dodgerblue;
+  font-family: verdana;
+  font-style: bold;
+  font-size: 30px;
+  margin: 3px;
+  color:black;
+  background-color: cyan;
+  align: center;
+}
+
+.nv2 {
+  border: 10px solid dodgerblue;
+  background-image: url('images/im179.jpg');
+  background-size: cover;
+  padding: 5px;
+  align: center;
+}
+
+.nv3 {
+  border: 2px solid dodgerblue;
+  display: flex;
+  padding: 5px;
+  margin: 3px;
+
+}
+
+.nv4 {
+  border: 10px solid dodgerblue;
+  background-image: url('img/sn36strip.jpg');
+  background-size: cover;
+  color: red;
+  align: center;
+}
+
+.brd1 {
+  border:3px dashed orange;
+  border-radius: 20px;
+  text-align: center;
+  color: aqua;
+  font-size: 30px;
+  font-style: bold;
+  padding: 10px;
+  margin: 5px;
+  float: center;
+
+  background-image: url('img/un5.png');
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: cyan;
+}
+
+.brd2 {
+  border:5px solid blue;
+  border-radius: 50px;
+  text-align: center;
+  padding: 7px;
+  margin: 5px;
+  float: left;
+  background-image: url('img/guide_hand.png');
+  background-size: cover;
+  background-color: aqua;
+}
+
+.brd3 {
+  border:3px dashed orange;
+  border-radius: 20px;
+  display: inline-flex;
+  text-align: center;
+  color: aqua;
+  font-size: 30px;
+  font-style: bold;
+  padding: 10px;
+  margin: 5px;
+  float: left;
+  background-image: url('img/un5.png');
+  background-size: cover;
+
+  background-color: cyan;
+}
+
+.brd4 {
+  border:5px solid blue;
+
+  text-align: center;
+  padding: 7px;
+  margin: 5px;
+  float: left;
+  background-color: aqua;
+}
+
+
+.hdbrd1 {
+  border: 5px solid black;
+  color: gold;
+  text-align: center;
+  background-color: navy;
+}
+
+.hdbrd2 {
+  border: 10px solid dodgerblue;
+  color: gold;
+  font-size: 100px;
+  background-image: url('img/un9.png');
+  background-size: center;
+  background-attachment: fixed;
+  background-color: navy;
+
+}
+
+.hdbrd3 {
+  border: 5px solid black;
+  color:Tomato;
+  font-style: bold;
+  font-size: 150px;
+  text-align: center;
+  background-color: navy;
+}
+
+
+.hdpos1 {
+  border: 5px solid dodgerblue;
+  background-image: url('images/Image520.jpg');
+  background-size:cover;
+  background-color: aqua;
+  color:crimson;
+
+}
+
+.pgbkgnd1 {
+  background-image: url('images/Im1145.jpg');
+  background-size:cover;
+  background-attachment: fixed;
+  align-items: center;
+}
+
+.secinl {
+  display:inline-flex;
+}
+
+
+.ft1 {
+  border: 5px solid black;
+  padding:5px;
+  margin: 5px;
+  background-image: url('images/Image519.jpg');
+  background-size:cover;
+  background-attachment: fixed;
+}
+
+.flex-container {
+  display:flex;
+  flex-direction: row;
+  /* justify-content: space-between; */
+
+}
+
+
+.subbtn1 {
+	border:4px solid black;
+	background-color: cornflowerblue;
+
+	color:navy;
+	font-family:arial black;
+	font-style: bold;
+	text-align: center;
+}
+
+.subbtn2 {
+	border:4px solid black;
+	background-color:royalblue;
+	padding:5px;
+	margin:5px;
+	color:gold;
+	font-family:arial black;
+	font-style: bold;
+	text-align: center;
+}
+
+.subbtn3 {
+	border:4px solid MediumSeaGreen;
+	background-color:royalblue;
+	padding:5px;
+	margin:5px;
+	color:azure;
+	font-family:arial black;
+	font-style: bold;
+	text-align: center;
+}
+
+.subbtn4 {
+	border:4px solid MediumSeaGreen;
+	background-color:royalblue;
+	padding:5px;
+	margin:5px;
+	color:gold;
+	font-family:arial black;
+	font-style: bold;
+	text-align: center;
+}
+
+.reset1 {
+    border:4px solid black;
+	   background-color:royalblue;
+	    padding:2px;
+	     margin:2px;
+	      color:red;
+}
